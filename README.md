@@ -50,8 +50,8 @@ means understanding the technology they depend on.
 |---|---|---|
 | [Handcrafted Haven](https://github.com/dvardcr/wdd430-t08-handcrafted-haven) | Full-stack marketplace for artisan sellers | React, Node.js, MongoDB, REST APIs |
 | [LC-Autoservice](https://github.com/Victor-Andrade/LC-Autoservice) | Real client Android app with WhatsApp PDF integration | Java, Android SDK |
-| [Pizza Ordering System](https://github.com/dvardcr](https://github.com/dvardcr/blazorWebPizza) | Authenticated web app with full CRUD | C#, .NET, Blazor |
-| [Customer Complaints](https://github.com/dvardcr](https://github.com/dommmy200/Agentic-Complaint-Hotlines) | Customer complaint page with AI | React, Node.js, n8n, Render, Supabase, Resend |
+| [Pizza Ordering System](https://github.com/dvardcr/blazorWebPizza) | Authenticated web app with full CRUD | C#, .NET, Blazor |
+| [Customer Complaints](https://github.com/dommmy200/Agentic-Complaint-Hotlines) | Customer complaint page with AI | React, Node.js, n8n, Render, Supabase, Resend |
 
 ---
 
