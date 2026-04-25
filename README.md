@@ -48,10 +48,10 @@ means understanding the technology they depend on.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Handcrafted Haven](https://github.com/dvardcr) | Full-stack marketplace for artisan sellers | React, Node.js, MongoDB, REST APIs |
+| [Handcrafted Haven](https://github.com/dvardcr/wdd430-t08-handcrafted-haven) | Full-stack marketplace for artisan sellers | React, Node.js, MongoDB, REST APIs |
 | [LC-Autoservice](https://github.com/Victor-Andrade/LC-Autoservice) | Real client Android app with WhatsApp PDF integration | Java, Android SDK |
-| [University Database](https://github.com/dvardcr) | 8-entity normalized relational database system | MySQL, SQL |
-| [Pizza Ordering System](https://github.com/dvardcr) | Authenticated web app with full CRUD | C#, .NET, Blazor |
+| [Pizza Ordering System]([https://github.com/dvardcr](https://github.com/dvardcr/blazorWebPizza)) | Authenticated web app with full CRUD | C#, .NET, Blazor |
+| [Customer Complaints]([https://github.com/dvardcr](https://github.com/dommmy200/Agentic-Complaint-Hotlines)) | Customer complaint page with AI | React, Node.js, n8n, Render, Supabase, Resend |
 
 ---
 
