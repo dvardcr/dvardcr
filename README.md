@@ -53,6 +53,9 @@ means understanding the technology they depend on.
 | [Pizza Ordering System](https://github.com/dvardcr/blazorWebPizza) | Authenticated web app with full CRUD | C#, .NET, Blazor |
 | [Customer Complaints](https://github.com/dommmy200/Agentic-Complaint-Hotlines) | Customer complaint page with AI | React, Node.js, n8n, Render, Supabase, Resend |
 
+⚠️ Live demo currently offline — academic deployment period ended.
+Code and documentation available in this repository.
+
 ---
 
 ## 📊 GitHub Stats
