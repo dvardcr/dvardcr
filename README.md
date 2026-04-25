@@ -7,7 +7,7 @@ Costa Rica 🇨🇷 with 20+ years of experience at the intersection of
 **people, technology, and business outcomes.**
 
 Currently completing a **Bachelor of Software Development** at BYU-Idaho 
-(3.96 GPA) while working full-time — because I believe serving people well 
+ while working full-time — because I believe serving people well 
 means understanding the technology they depend on.
 
 ---
