@@ -1,7 +1,5 @@
 # Hi, I'm Diego Vargas 👋
 
-> *I don't wait for problems to surface — I go looking for them.*
-
 I'm a Full-Stack Developer and Enterprise Solutions professional based in 
 Costa Rica 🇨🇷 with 20+ years of experience at the intersection of 
 **people, technology, and business outcomes.**
