@@ -83,4 +83,4 @@ Code and documentation available in this repository.
 
 ---
 
-*"Solving problems. Serving people. Building solutions."*
+*"Serving people - Building solutions"*
