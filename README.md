@@ -39,7 +39,11 @@ means understanding the technology they depend on.
 **AI Development**
 ![Anthropic](https://img.shields.io/badge/-Anthropic%20Claude-D97706?style=flat)
 ![Microsoft Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-0078D4?style=flat&logo=microsoft)
-
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+![Google AI](https://img.shields.io/badge/-Google%20AI-4285F4?style=flat&logo=google)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)
 ---
 
 ## 🚀 Featured Projects
